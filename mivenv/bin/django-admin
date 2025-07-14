@@ -1,4 +1,4 @@
-#!/home/dragon/VS_code/DjangoAppi_CRM360/mivenv/bin/python3
+#!/home/kr4v3n/VS_code/DjangoAppi_CRM360/mivenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
