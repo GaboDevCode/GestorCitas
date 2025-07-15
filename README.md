@@ -4,7 +4,7 @@ DjangoAppi CRM360 es un sistema de gestión de relaciones con clientes (CRM) des
 
 ---
 
-## 📸 Capturas de Pantalla
+## 📸 
 
 ![](https://raw.githubusercontent.com/GaboDevCode/GestorCitas/refs/heads/main/media/1.png)
 
